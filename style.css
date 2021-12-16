@@ -157,7 +157,7 @@ button,
 input {
   font-family: inherit;
   font-size: 100%;
-  background: #FFFFFF;
+  background: #857777;
   border: 1px solid #000000;
   box-sizing: border-box;
   border-radius: 4px;
@@ -184,7 +184,7 @@ h2 {
 }
 @media screen {
   body {
-    background-color: rgb(185, 169, 169);
+    background-color: rgb(177, 149, 149);
   }
 }
 
@@ -194,7 +194,7 @@ h2 {
   }
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 340px) {
   body {
     background-color: green;
   }
