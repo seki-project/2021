@@ -17,8 +17,8 @@ to this section's matching END comment to see page-specific styles.
 /* Our default values set as CSS variables */
 :root {
   --color-bg: #7eb339s;
-  --color-text-main: #000000;
-  --color-primary: #FFFF00;
+  --color-text-main: #030303;
+  --color-primary: #020202;
   --wrapper-height: 87vh;
   --image-max-width: 500px;
   --image-margin: 3rem;
@@ -131,11 +131,11 @@ body {
 
 /* Very light scaling for our illustration */
 .title {
-  color: #2800FF;
+  color: #000000;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
-  font-size: 100px;
+  font-size: 50px;
   line-height: 105%;
   margin: 0;
 }
